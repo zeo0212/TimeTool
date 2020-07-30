@@ -18,6 +18,11 @@
         TimeChange.getInstanceSafe().getTimemIllisecond("2020/12/12 00:00:00");
 
 
+
+
+
 dependencies {
+
 	        implementation 'com.github.zeo0212:TimeTool:1.0'
+	
 	}
